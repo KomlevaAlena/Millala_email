@@ -1,2 +1,6 @@
 # Millala_email
 Millala репозиторий с примером верстки e-mail для почтовых сервисов
+
+макет
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHluMm4wLWtjQ3FvMkszYVp4NmpqMWo3MkF5QXxBQ3Jtc0tuZmxTRlAwRTlZY3NPbk9QbXhLcmhsbG9zaXY2SDFFTk9zY043Zjk4RVhUT0V0Q1Q5XzlGMGw5US1xbEs5LW1ZQllZUWw5Z0pvR2FTREFYenlRbGhxVlA4S0VyT0xSVWNKbTFoazM3emQ2UFJCMHFTZw&q=https%3A%2F%2Fwww.figma.com%2Fdesign%2FrEOShVX3lnffwaROjXO78C%2FEmail%3Fnode-id%3D0-3%26t%3DEJjjBA4XlvrYe7Tq-1&v=-L7IARE3n-g
+
